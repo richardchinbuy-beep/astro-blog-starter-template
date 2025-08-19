@@ -1,6 +1,6 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
+title: "The Fritz Haber Paradox"
+description: "The War Criminal Genius Who Saved Millions"
 pubDate: "Jul 08 2022"
 heroImage: "/blog-placeholder-3.jpg"
 ---
